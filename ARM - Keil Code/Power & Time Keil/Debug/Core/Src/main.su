@@ -1,0 +1,12 @@
+main.c:90:10:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:219:7:get_mcu_temp	32	static
+main.c:231:10:get_adc_raw	24	static
+main.c:336:2:__io_putchar	16	static
+main.c:377:5:main	48	static
+main.c:575:6:SystemClock_Config	88	static
+main.c:621:6:get_current_and_send	48	static
+main.c:664:5:read_adc1	24	static
+main.c:701:6:motor_fanction	16	static
+main.c:736:6:left_step	24	static
+main.c:748:6:right_step	24	static
+main.c:769:6:Error_Handler	4	static
